@@ -1,5 +1,5 @@
 # Ignore the Zip Files folder
-Zip Files/
+.Zip Files/
 
 # Ignore the Documents folder
-Documents/
+.Documents/
